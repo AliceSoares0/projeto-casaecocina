@@ -1,0 +1,16 @@
+html,body {
+    height: 100%;
+    color: wheat
+}
+
+.form-container {
+    max-width: 400px;
+    padding: 1rem;
+}
+
+body {
+    background-image: url("https://c.wallhere.com/photos/f3/fb/indoors_bar-186862.jpg!d");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
